@@ -11,3 +11,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+git add .
+git commit -m "added a new line to Shipping_Cost_Calculator.py"
+git status
